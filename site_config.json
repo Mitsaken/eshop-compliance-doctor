@@ -1,0 +1,9 @@
+{
+  "CHECKOUT_ENABLED": false,
+  "PROJECT_SLUG": "eshop-compliance-doctor",
+  "BRAND_NAME": "eShop Compliance Audit",
+  "TARGET_PRICE_EUR": 24,
+  "WAITLIST_ENDPOINT": "https://conversionlogic-waitlist.conversionlogic.workers.dev",
+  "CANONICAL_URL": "https://eshop-compliance-doctor.pages.dev",
+  "LAST_REVIEW_DATE": "2026-11-19"
+}

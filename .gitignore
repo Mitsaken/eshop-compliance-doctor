@@ -1,0 +1,5 @@
+*.pdf
+*.xlsx
+agency_templates/
+README_START_HERE.txt
+__pycache__/
